@@ -3,7 +3,7 @@ name: Generate Daily Checklist
 on:
   push:
     paths:
-      - 'Personal-Software-Learning-Notes/**'
+      - '**'
   schedule:
     - cron: '0 0 * * *'
 
