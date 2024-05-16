@@ -27,9 +27,11 @@ jobs:
       run: python generate_checklist.py
 
     - name: Commit and push changes
+      env:
+        GITHUB_TOKEN: ${{ secrets.ACTIONS_TOKEN }}
       run: |
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'
         git add daily_checklist.md
         git commit -m "Update daily checklist"
-        git push origin main
+        git push https://x-access-token:${{ secrets.ACTIONS_TOKEN }}@github.com/${{ github.repository }}.git
