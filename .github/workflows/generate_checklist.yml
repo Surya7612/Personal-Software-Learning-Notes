@@ -1,0 +1,38 @@
+name: Generate Daily Checklist
+
+on:
+   push:
+       paths:
+        - 'Personal-Software-Learning-Notes/**'
+   schedule:
+     - cron: '0 0 * * *'
+
+jobs:
+  generate-checklist:
+   runs-on: ubuntu-latest
+
+  steps:
+  - name: Checkout repository
+    uses: actions/checkout@2
+
+  - name: Setup Python
+    uses: actions/setup-python@v2
+    with:
+      python-version: '3.x'
+
+  - name: Install dependencies
+    run: |
+      pip install markdown
+
+  - name: Generate checklist
+    run: |
+      python generate_checklist.py
+
+  - name: Commit and push changes
+    run: |
+      git config --global user.name 'github-actions'
+      git config --global user.email 'github-actions@github.com'
+      git add daily_checklist.md
+      git commit -m "Update daily checklist"
+      git push origin main
+  
