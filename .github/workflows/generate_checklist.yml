@@ -1,4 +1,4 @@
-name: Generate Daily Checklist
+name: Generate Daily Notes
 
 on:
   push:
@@ -7,23 +7,26 @@ on:
   schedule:
     - cron: '0 0 * * *'
 
+permissions:
+  contents: write
+
 jobs:
-  generate-checklist:
+  generate-notes:
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v4  # Use the latest version
+      uses: actions/checkout@v4
 
     - name: Setup Python
-      uses: actions/setup-python@v4  # Use the latest version
+      uses: actions/setup-python@v4
       with:
         python-version: '3.x'
 
     - name: Install dependencies
       run: pip install markdown
 
-    - name: Generate checklist
+    - name: Generate notes
       run: python generate_checklist.py
 
     - name: Commit and push changes
@@ -32,6 +35,6 @@ jobs:
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-        git add daily_checklist.md
-        git commit -m "Update daily checklist"
-        git push https://x-access-token:${{ secrets.ACTIONS_TOKEN }}@github.com/${{ github.repository }}.git
+        git add daily_notes/daily_notes_*.md
+        git commit -m "Update daily notes"
+        git push https://x-access-token:${{ secrets.ACTIONS_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
