@@ -23,9 +23,8 @@
 - daily_notes_2024-05-16.md - ./daily_notes/daily_notes_2024-05-16.md
 - daily_notes_2024-05-17.md - ./daily_notes/daily_notes_2024-05-17.md
 - AWS-Certified-Solutions-Architect-Official-Study-Guide.pdf.pdf - ./AWS/AWS-Certified-Solutions-Architect-Official-Study-Guide.pdf.pdf
-- Ad-Hoc_OLAP_Query_Processing.pdf - ./Python/Ad-Hoc_OLAP_Query_Processing.pdf
 - Graphs.pdf - ./Python/Graphs.pdf
-- HUI.pdf - ./Python/HUI.pdf
+- DSA & Leetcode Question Notes(Approaches).pdf - ./Python/DSA & Leetcode Question Notes(Approaches).pdf
 - Python Interview Prep(Theory Part-1).pdf - ./Python/Python Interview Prep(Theory Part-1).pdf
 - basics.py - ./Python/basics.py
 - Part-2 IP.pdf - ./Python/Part-2 IP.pdf
