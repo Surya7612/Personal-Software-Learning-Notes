@@ -5,7 +5,6 @@
 - Important DP Questions & Extra Imp Links.pdf - ./Important DP Questions & Extra Imp Links.pdf
 - Important-posts:questions:notes.docx - ./Important-posts:questions:notes.docx
 - Important-posts:questions:notes.pdf - ./Important-posts:questions:notes.pdf
-- daily_checklist.md - ./daily_checklist.md
 - JIRA Essentials Part - 2.pdf - ./JIRA/JIRA Essentials Part - 2.pdf
 - JIRA Essentials - Part One.pdf - ./JIRA/JIRA Essentials - Part One.pdf
 - bitcoin.pdf - ./Research Papers/bitcoin.pdf
