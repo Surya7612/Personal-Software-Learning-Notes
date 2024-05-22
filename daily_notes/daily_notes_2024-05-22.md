@@ -1,0 +1,36 @@
+## Daily Notes for 2024-05-22
+
+- README.md - ./README.md
+- generate_checklist.py - ./generate_checklist.py
+- Important DP Questions & Extra Imp Links.pdf - ./Important DP Questions & Extra Imp Links.pdf
+- Important-posts:questions:notes.docx - ./Important-posts:questions:notes.docx
+- Important-posts:questions:notes.pdf - ./Important-posts:questions:notes.pdf
+- JIRA Essentials Part - 2.pdf - ./JIRA/JIRA Essentials Part - 2.pdf
+- JIRA Essentials - Part One.pdf - ./JIRA/JIRA Essentials - Part One.pdf
+- bitcoin.pdf - ./Research Papers/bitcoin.pdf
+- xfaas_sosp23.pdf - ./Research Papers/xfaas_sosp23.pdf
+- Kafka.pdf - ./Research Papers/Kafka.pdf
+- 1706.03762v7.pdf - ./Research Papers/1706.03762v7.pdf
+- amazon-dynamo-sosp2007.pdf - ./Research Papers/amazon-dynamo-sosp2007.pdf
+- gfs-sosp2003.pdf - ./Research Papers/gfs-sosp2003.pdf
+- nsdi13-final170_update.pdf - ./Research Papers/nsdi13-final170_update.pdf
+- chubby-osdi06.pdf - ./Research Papers/chubby-osdi06.pdf
+- lakshman-ladis2009.pdf - ./Research Papers/lakshman-ladis2009.pdf
+- Microsoft Azure Fundamentals (Ongoing).pdf - ./Azure/Microsoft Azure Fundamentals (Ongoing).pdf
+- Assembly Language with ARM.pdf - ./Assembly Language/Arm/Assembly Language with ARM.pdf
+- paddy.py - ./Assembly Language/X86/Ex_Files_Learning_Assembly_Language/Exercise Files/CH06/06_04/paddy.py
+- daily_notes_2024-05-19.md - ./daily_notes/daily_notes_2024-05-19.md
+- daily_notes_2024-05-16.md - ./daily_notes/daily_notes_2024-05-16.md
+- daily_notes_2024-05-17.md - ./daily_notes/daily_notes_2024-05-17.md
+- daily_notes_2024-05-18.md - ./daily_notes/daily_notes_2024-05-18.md
+- daily_notes_2024-05-21.md - ./daily_notes/daily_notes_2024-05-21.md
+- daily_notes_2024-05-20.md - ./daily_notes/daily_notes_2024-05-20.md
+- AWS-Certified-Solutions-Architect-Official-Study-Guide.pdf.pdf - ./AWS/AWS-Certified-Solutions-Architect-Official-Study-Guide.pdf.pdf
+- Graphs.pdf - ./Python/Graphs.pdf
+- DSA & Leetcode Question Notes(Approaches).pdf - ./Python/DSA & Leetcode Question Notes(Approaches).pdf
+- Python Interview Prep(Theory Part-1).pdf - ./Python/Python Interview Prep(Theory Part-1).pdf
+- basics.py - ./Python/basics.py
+- Part-2 IP.pdf - ./Python/Part-2 IP.pdf
+- Leetcode Notes-DSA Explanation.pdf - ./Python/Leetcode Notes-DSA Explanation.pdf
+- DSA.pdf - ./Python/DSA.pdf
+- Tree.pdf - ./Python/Tree.pdf
