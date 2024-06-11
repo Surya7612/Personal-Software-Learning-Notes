@@ -1,4 +1,4 @@
-## Daily Notes for 2024-05-17
+## Daily Notes for 2024-05-19
 
 - README.md - ./README.md
 - generate_checklist.py - ./generate_checklist.py
@@ -21,6 +21,7 @@
 - paddy.py - ./Assembly Language/X86/Ex_Files_Learning_Assembly_Language/Exercise Files/CH06/06_04/paddy.py
 - daily_notes_2024-05-16.md - ./daily_notes/daily_notes_2024-05-16.md
 - daily_notes_2024-05-17.md - ./daily_notes/daily_notes_2024-05-17.md
+- daily_notes_2024-05-18.md - ./daily_notes/daily_notes_2024-05-18.md
 - AWS-Certified-Solutions-Architect-Official-Study-Guide.pdf.pdf - ./AWS/AWS-Certified-Solutions-Architect-Official-Study-Guide.pdf.pdf
 - Graphs.pdf - ./Python/Graphs.pdf
 - DSA & Leetcode Question Notes(Approaches).pdf - ./Python/DSA & Leetcode Question Notes(Approaches).pdf
