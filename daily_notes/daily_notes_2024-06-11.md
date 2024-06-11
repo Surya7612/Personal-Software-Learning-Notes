@@ -1,6 +1,7 @@
 ## Daily Notes for 2024-06-11
 
 - README.md - ./README.md
+- Apache Kafka, REST API, DOCKER Basics.pdf - ./Apache Kafka, REST API, DOCKER Basics.pdf
 - generate_checklist.py - ./generate_checklist.py
 - Important DP Questions & Extra Imp Links.pdf - ./Important DP Questions & Extra Imp Links.pdf
 - Important-posts:questions:notes.docx - ./Important-posts:questions:notes.docx
@@ -36,6 +37,7 @@
 - daily_notes_2024-05-17.md - ./daily_notes/daily_notes_2024-05-17.md
 - daily_notes_2024-05-30.md - ./daily_notes/daily_notes_2024-05-30.md
 - daily_notes_2024-06-05.md - ./daily_notes/daily_notes_2024-06-05.md
+- daily_notes_2024-06-11.md - ./daily_notes/daily_notes_2024-06-11.md
 - daily_notes_2024-05-18.md - ./daily_notes/daily_notes_2024-05-18.md
 - daily_notes_2024-06-09.md - ./daily_notes/daily_notes_2024-06-09.md
 - daily_notes_2024-06-02.md - ./daily_notes/daily_notes_2024-06-02.md
