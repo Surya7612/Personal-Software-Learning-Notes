@@ -27,7 +27,7 @@ def generate_checklist():
     with open(checklist_filename, 'w') as f:
         f.write(checklist_content)
 
-    print(checklist_content)  # Debugging line
+    #print(checklist_content)  # Debugging line
 
 if __name__ == "__main__":
     generate_checklist()
