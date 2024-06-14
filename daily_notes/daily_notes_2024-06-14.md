@@ -6,6 +6,7 @@
 - Important DP Questions & Extra Imp Links.pdf - ./Important DP Questions & Extra Imp Links.pdf
 - Important-posts:questions:notes.docx - ./Important-posts:questions:notes.docx
 - Important-posts:questions:notes.pdf - ./Important-posts:questions:notes.pdf
+- Apache Kafka Extra Notes.pdf - ./Apache Kafka Extra Notes.pdf
 - JIRA Essentials Part - 2.pdf - ./JIRA/JIRA Essentials Part - 2.pdf
 - JIRA Essentials - Part One.pdf - ./JIRA/JIRA Essentials - Part One.pdf
 - bitcoin.pdf - ./Research Papers/bitcoin.pdf
@@ -26,6 +27,7 @@
 - daily_notes_2024-05-24.md - ./daily_notes/daily_notes_2024-05-24.md
 - daily_notes_2024-06-07.md - ./daily_notes/daily_notes_2024-06-07.md
 - daily_notes_2024-05-23.md - ./daily_notes/daily_notes_2024-05-23.md
+- daily_notes_2024-06-14.md - ./daily_notes/daily_notes_2024-06-14.md
 - daily_notes_2024-06-08.md - ./daily_notes/daily_notes_2024-06-08.md
 - daily_notes_2024-05-19.md - ./daily_notes/daily_notes_2024-05-19.md
 - daily_notes_2024-05-22.md - ./daily_notes/daily_notes_2024-05-22.md
